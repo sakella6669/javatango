@@ -1,0 +1,2 @@
+This is a 10 years of java experience en RAD ( Rapid Application Development).Based in a String var's instance, use dynamic JSP and Java Generator class, to create a CRUD proyect in minutes.
+Agile excel worksheet for development process.
